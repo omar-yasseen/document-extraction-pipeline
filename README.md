@@ -53,6 +53,7 @@ copy .env.example .env        # then paste your API key into it
 ## Use
 
 ```bash
+.venv\Scripts\python.exe demo.py                                # everything, opens the UI
 .venv\Scripts\python.exe extract.py samples\messy-invoice.png   # one document
 .venv\Scripts\python.exe run.py samples                         # whole folder
 .venv\Scripts\python.exe review.py                              # review UI at :5000
@@ -68,6 +69,7 @@ Add `--refresh` to `run.py` to bypass the cache and re-extract.
 | `extract.py` | One document in, structured data out |
 | `validate.py` | The deterministic checks. `CONFIDENCE_THRESHOLD` is the precision/recall dial |
 | `run.py` | Batch: extract, validate, route, cache |
+| `demo.py` | One command: process the samples and open the review UI |
 | `review.py` | Local web UI — source image beside editable fields |
 | `make_test_docs.py` | Generates test invoices, deliberately broken in specific ways |
 
