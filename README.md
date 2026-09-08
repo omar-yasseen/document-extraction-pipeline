@@ -4,9 +4,9 @@ Turns a folder of messy invoices — phone photos, crooked scans, PDFs — into 
 clean spreadsheet, and routes anything it isn't sure about to a human instead of
 guessing.
 
-[![Watch the 2-minute demo](https://i.ytimg.com/vi/Tz7Fk7gh-X4/hqdefault.jpg)](https://youtu.be/Tz7Fk7gh-X4)
+[![Watch the 2-minute demo](https://i.ytimg.com/vi/BC3g23Tu4Eo/hqdefault.jpg)](https://youtu.be/BC3g23Tu4Eo)
 
-**[▶ Watch the 2-minute demo](https://youtu.be/Tz7Fk7gh-X4)**
+**[▶ Watch the 2-minute demo](https://youtu.be/BC3g23Tu4Eo)**
 
 **On a 7-document test set: 57% processed with no human touch.** The other 43%
 arrived with a specific, actionable reason attached — not "low confidence", but
